@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author batoo
+ *
+ */
+module aa {
+}
